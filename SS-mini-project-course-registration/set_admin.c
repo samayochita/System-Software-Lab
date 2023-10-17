@@ -1,4 +1,4 @@
-// creating an administrator record and storing it in a file. 
+
 
 #include <stdlib.h>
 #include <stdio.h>
